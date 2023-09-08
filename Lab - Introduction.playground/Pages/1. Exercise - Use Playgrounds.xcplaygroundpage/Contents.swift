@@ -15,9 +15,9 @@ print("FireWork By Katie Perry")
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-print
-
-
+print("Do you ever feel like a plastic bag")
+print("Drifiting through the wind wanting to start again")
+print("Do you ever feel buried deep, 6 feet udner screams but no one seems to hear a thing")
 /*:
 
  _Copyright © 2021 Apple Inc._
